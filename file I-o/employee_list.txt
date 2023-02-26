@@ -1,0 +1,10 @@
+the name of employee is :: roshan prusty
+the salary of roshan prusty is 25
+
+*************************************************************************************************************
+the name of employee is :: sanch baby
+the salary of sanch baby is 233
+
+*************************************************************************************************************
+the name of employee is :: anu darling
+the salary of anu darling is 96

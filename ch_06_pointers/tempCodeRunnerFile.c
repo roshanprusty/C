@@ -1,0 +1,1 @@
+ printf("the sum of a number is %d", *s);
